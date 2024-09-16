@@ -1,0 +1,1 @@
+This is my CV Web Page. The website highlights key aspects such as my bio, skills, projects, and social media profiles, all presented in a vibrant and user-friendly design. With playful animations and emojis.
